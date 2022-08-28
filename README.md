@@ -1,0 +1,2 @@
+# JavaClassNotes
+Daily class notes
